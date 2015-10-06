@@ -1,0 +1,54 @@
+@media only screen and (max-width : 1024px) { 
+
+}
+
+@media only screen and (max-width : 968px) { 
+
+
+}
+
+@media only screen and (max-width : 768px) { 
+.why_heading{line-height:30px;}
+.why_para_subheading {padding-bottom:10px;} 
+#slide3{background-position: 0px 0px !important;}
+.our_innersubheading{padding-bottom:18px; min-height:inherit !important;}
+.supply_total_div { float:none; margin:auto !important; width:96%; margin-top:18px !important;min-height:inherit;}
+.tailor_total_div { float:none; margin:auto !important; width:96%; margin-bottom:18px !important;min-height:235px;}
+.tailor_total_div1 { margin-top:0px !important;}
+.service_discover_more{margin-bottom:20px;}
+.scene{ height:275px;}
+#projectPag .span3.margin_top{width: 265px;margin: auto;margin-bottom: 18px;}
+.login_form {max-width: 220px; width:auto;}
+.in_banner_sub_heading,.inner_main_heading{line-height:32px;}
+
+}
+
+@media only screen and (max-width : 592px) { 
+.our_heading1{line-height:40px;}
+.legal_heading{padding-bottom:10px;padding-top: 10px;;}
+.legal_para {padding-bottom:10px;  width: 96%;  margin: auto;  float: none;}
+.legal_total{min-height:initial;}
+.agency_heading{line-height:32px;padding-bottom: 14px;  font-size: 28px;}
+}
+
+@media only screen and (max-width : 480px) { 
+.enquery_btn {width:280px;}
+.agency_heading {font-size:26px;}
+.why_heading{  font-size: 22px;}
+.our_heading1, .inner_main_heading{font-size:28px;}
+.our_heading1 span{font-size:22px !important;}
+.agency_heading, .in_banner_sub_heading {font-size: 22px;}
+.agency_para{font-size:15px;line-height:22px;  padding-top: 10px;}
+.contact_us_heading2{font-size:32px;}
+.contact_us_subheading{font-size:22px;}
+.contact_para{font-size:15px !important;}
+.sequence-canvas{margin-left:0px;}
+.inner_para {width: 96%;float: none; margin: auto;}
+.inner_para p,.in_banner_para{font-size:16px;}
+.inner_main_heading p span{font-size:16px;}
+}
+
+@media only screen and (max-width : 320px) { 
+
+
+}
